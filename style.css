@@ -120,7 +120,7 @@ a:hover {
 
 /*  الرئيسية */
 .home {
-    background-image: url(images/background.jpg) ;
+    background-image: url(background.jpg) ;
    
     height: 90vh;
     display: flex;
@@ -547,3 +547,4 @@ a:hover {
         justify-content: center;
     }
 }
+
